@@ -1,3 +1,4 @@
 just playing with new git commands that i learnt.
 adding this line to the test branch
 switched to test 
+adding this line to see if merging with main automatically updates main remote branch
